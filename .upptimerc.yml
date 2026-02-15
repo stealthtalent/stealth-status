@@ -50,3 +50,4 @@ status-website:
         color: #169A93 !important;
       }
     </style>
+    <script>document.addEventListener('DOMContentLoaded',function(){var l=document.querySelector('a.logo');if(l)l.href='https://stealthtalent.work';})</script>
