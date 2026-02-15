@@ -16,11 +16,7 @@ status-website:
   introMessage: Real-time monitoring for Stealth Talent services.
   theme: light
   themeUrl: https://raw.githubusercontent.com/stealthtalent/stealth-status/master/assets/stealth-theme.css
-  navbar:
-    - title: Status
-      href: /
-    - title: Stealth Talent
-      href: https://stealthtalent.work
+  navbar: []
   css:
     - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
   customHeadHtml: >-
@@ -30,6 +26,12 @@ status-website:
       }
       .logo img {
         height: 28px !important;
+      }
+      .logo div {
+        display: none !important;
+      }
+      nav ul {
+        display: none !important;
       }
       h1 {
         font-weight: 600 !important;
