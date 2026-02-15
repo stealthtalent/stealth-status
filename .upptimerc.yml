@@ -8,6 +8,7 @@ sites:
     url: https://stealthtalent.work/health
 
 status-website:
+  publish: true
   cname: status.stealthtalent.work
   name: Stealth Talent Status
   introTitle: "**Stealth Talent** is up"
