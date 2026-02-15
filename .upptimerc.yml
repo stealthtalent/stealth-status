@@ -11,10 +11,58 @@ status-website:
   publish: true
   cname: status.stealthtalent.work
   name: Stealth Talent Status
-  introTitle: "**Stealth Talent** is up"
-  introMessage: This page shows real-time monitoring for Stealth Talent services.
+  logoUrl: https://raw.githubusercontent.com/stealthtalent/stealth-status/master/assets/stealth-logo.svg
+  introTitle: "All systems operational"
+  introMessage: Real-time monitoring for Stealth Talent services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Stealth Talent
+      href: https://stealthtalent.work
+  css:
+    - https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+  customHeadHtml: >-
+    <style>
+      :root {
+        --color-brand: #169A93;
+        --color-brand-dark: #128079;
+        --color-text: #1A1A1A;
+        --color-bg: #FFFFFF;
+        --color-muted: #8B8B8B;
+        --color-light-teal: #E9F7F7;
+      }
+      body, html {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+        color: var(--color-text) !important;
+      }
+      .logo img {
+        height: 28px !important;
+      }
+      nav, .nav, header {
+        border-bottom: 1px solid #f0f0f0 !important;
+      }
+      a {
+        color: var(--color-brand) !important;
+      }
+      a:hover {
+        color: var(--color-brand-dark) !important;
+      }
+      .check-circle, .up {
+        color: var(--color-brand) !important;
+        fill: var(--color-brand) !important;
+      }
+      h1 {
+        font-weight: 700 !important;
+        color: var(--color-text) !important;
+      }
+      .intro-message, .description {
+        color: var(--color-muted) !important;
+      }
+      .status-up, .tag.is-success {
+        background-color: var(--color-light-teal) !important;
+        color: var(--color-brand) !important;
+      }
+      footer a[href*="upptime"] {
+        display: none !important;
+      }
+    </style>
