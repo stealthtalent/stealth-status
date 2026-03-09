@@ -4,35 +4,39 @@
     "url": "https://stealthtalent.work",
     "icon": "https://icons.duckduckgo.com/ip3/stealthtalent.work.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 245,
-    "timeWeek": 246,
-    "timeMonth": 202,
-    "timeYear": 202,
-    "dailyMinutesDown": {}
+    "time": 198,
+    "timeDay": 165,
+    "timeWeek": 226,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2026-03-09": 0
+    }
   },
   {
     "name": "API",
     "url": "https://stealthtalent.work/health",
     "icon": "https://icons.duckduckgo.com/ip3/stealthtalent.work.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 43,
-    "timeDay": 66,
-    "timeWeek": 46,
-    "timeMonth": 43,
-    "timeYear": 43,
-    "dailyMinutesDown": {}
+    "time": 42,
+    "timeDay": 40,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
+    "dailyMinutesDown": {
+      "2026-03-09": 0
+    }
   }
 ]
