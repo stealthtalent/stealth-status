@@ -4,15 +4,15 @@
     "url": "https://stealthtalent.work",
     "icon": "https://icons.duckduckgo.com/ip3/stealthtalent.work.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "99.26%",
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.19%",
     "time": 208,
-    "timeDay": 56,
-    "timeWeek": 207,
+    "timeDay": 100,
+    "timeWeek": 209,
     "timeMonth": 192,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
       "2026-06-09": 44,
       "2026-06-12": 59,
       "2026-06-15": 18,
-      "2026-06-16": 0
+      "2026-06-16": 112
     }
   },
   {
@@ -34,15 +34,15 @@
     "url": "https://stealthtalent.work/health",
     "icon": "https://icons.duckduckgo.com/ip3/stealthtalent.work.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "99.26%",
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "99.20%",
     "time": 104,
-    "timeDay": 58,
-    "timeWeek": 127,
+    "timeDay": 96,
+    "timeWeek": 134,
     "timeMonth": 180,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
       "2026-06-09": 39,
       "2026-06-12": 59,
       "2026-06-15": 18,
-      "2026-06-16": 0
+      "2026-06-16": 112
     }
   }
 ]
